@@ -32,17 +32,17 @@
 </p> -->
 <p>
 	<img valign="middle" width="25px" src="./_resourses/icons/gmail.ico"> Email:
-	<pre><code>username1111111111-work@protonmail.com</code></pre>
+	<pre><code>username1111111111-work@yandex.ru</code></pre>
 </p>
 <!-- <p>
 	<a href="https://www.linkedin.com/in/" style="text-decoration: none;">
 	  <img valign="middle" width="25px" src="./_resourses/icons/linkedin.ico" /> LinkedIn
 	</a>
 </p> -->
-<p>
-	<img valign="middle" width="25px" src="./_resourses/icons/xmpp.ico"> XMPP: 
-	<pre><code>username1111111111-work@creep.im</code></pre>
-</p>
+<!-- <p>
+	<img valign="middle" width="25px" src="./_resourses/icons/xmpp.ico"> TG: 
+	<pre><code></code></pre>
+</p> -->
 <!-- <p>
 	<a href="" style="text-decoration: none;">
 		<img valign="middle" width="25" src="https://jitsi.org/wp-content/uploads/2020/04/Jitsi-favicon-196-50x50.png">
