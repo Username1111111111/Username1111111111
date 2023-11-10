@@ -32,7 +32,7 @@
 </p> -->
 <p>
 	<img valign="middle" width="25px" src="./_resourses/icons/gmail.ico"> Email:
-	<pre><code>username1111111111-work@yandex.ru</code></pre>
+	<pre><code>username1111111111work@gmail.com</code></pre>
 </p>
 <!-- <p>
 	<a href="https://www.linkedin.com/in/" style="text-decoration: none;">
