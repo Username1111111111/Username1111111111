@@ -178,7 +178,7 @@
 				<td align="center">
 					<a href="https://github.com/Username1111111111/VK-scripts" style="text-decoration: none;">
 						<p align="center">VK scripts</p>
-						<img valign="middle" height="150px" style="margin: 0 auto" src="https://github.com/Username1111111111/VK-scripts/raw/master/_resourses/vk-scripts.png">
+<!-- 						<img valign="middle" height="150px" style="margin: 0 auto" src="https://github.com/Username1111111111/VK-scripts/raw/master/_resourses/vk-scripts.png"> -->
 					</a>
 				</td>
 				<td align="center">
