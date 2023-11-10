@@ -1,7 +1,7 @@
 # <p align="center">Who is he?! <img src="./_resourses/icons/thinking-face.png" valign="middle" height="24px" alt="🤔"></p>
 <img alt="Header" width="100%" src="./_resourses/header.png" />
 
-<p>I am <a style="text-decoration: none;" href="https://github.com/Username1111111111">Alex</a>, self-taught <img height="28px" valign="middle" src="./_resourses/frontend.png"> developer, (cyber)security amateur, a mad creative designer <img src="./_resourses/icons/pinched-fingers.png" valign="middle"  height="24px" alt="🤌">, maker. I like the open-source and a <b>sense of humor</b>. I speak english fluently though it's not my native language. Feel free to contact me via suitable <a style="text-decoration: none;" href="#links">link</a>.</p> 
+<p>I am <a style="text-decoration: none;" href="https://github.com/Username1111111111">Alex</a>, self-taught <img height="28px" valign="middle" src="./_resourses/frontend.png"> developer, (cyber)security amateur, a mad creative designer <img src="./_resourses/icons/pinched-fingers.png" valign="middle"  height="24px" alt="🤌">, maker. I like the open-source and a <b>sense of humor</b>. I speak english fluently though it's not my native language. Feel free to contact me via suitable <a style="text-decoration: none;" href="#contact-me">link</a>.</p> 
 
 ## <p align="center"> That's what I am <img src="./_resourses/icons/thumbs-up.png" valign="middle" height="24px" alt="👍"> at: </p>
 | Languages | Operating systems | Editors | Tools |
