@@ -64,7 +64,7 @@
 
 <h1 align="center" id="mad_works">My mad works</h1>
 
-<details open="true"> 
+<details open="false"> 
 	<summary align="center"><h2>👉 See here some of my creations 👈</h2></summary>
 	<table align="center" style="margin: 0 auto;">
 		<tbody>
